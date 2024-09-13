@@ -13,3 +13,4 @@ set lz
 set ffs=unix,dos,mac
 set fencs=utf-8,cp1251
 set number
+set mouse=r
